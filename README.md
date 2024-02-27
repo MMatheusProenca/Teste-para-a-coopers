@@ -1,18 +1,7 @@
 # Relatório do Projeto
-![imagem do site](screenshot.jpeg){: width="600" height="400"}
-
-## Sumário
-
-1. [Introdução](#introdução)
-2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Normas e Padrões](#normas-e-padrões)
-4. [Hospedagem](#hospedagem)
-5. [Características do Projeto](#características-do-projeto)
-6. [Análise de Performance e SEO](#análise-de-performance-e-seo)
-7. [Ferramentas e Plugins do WordPress](#ferramentas-e-plugins-do-wordpress)
-8. [Estrutura do Código](#estrutura-do-código)
-9. [Conclusão](#conclusão)
-9. [Arquivos minificados](#arquivos-minificados)
+<p align="center">
+<img src="screenshot.jpeg" alt="imagem do site" width="500px" height="500px" text-align="center">
+</p>
 
 ## Introdução
 
@@ -69,4 +58,4 @@ A estrutura do código segue o padrão de desenvolvimento de temas do WordPress,
 
 ## Arquivos minificados
 
-Os arquivos de css e js, quando foram pra hospegagem foram minificados, porem, para questões de visibilidade de código, neste repositório se encontrão também os arquivos completos, para fácil leitura
+Os arquivos de css e js, quando foram pra hospegagem foram minificados, porem, para questões de visibilidade de código, neste repositório se encontrão também os arquivos completos, para fácil leitura.
